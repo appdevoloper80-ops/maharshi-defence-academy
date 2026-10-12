@@ -1,0 +1,6 @@
+{
+  "name": "Maharshi Defence Academy - Piler",
+  "description": "Premier defence training academy in Piler, Andhra Pradesh offering affordable written coaching, physical training, hostel, and mess for Army, Navy, Air Force, NDA, SSC GD, and Police aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
